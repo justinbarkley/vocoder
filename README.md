@@ -1,2 +1,2 @@
 # vocoder-clean
-a cleanup for my previous repository on the vooer
+a cleanup for my previous repository on the vocoder
