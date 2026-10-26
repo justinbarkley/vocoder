@@ -1,0 +1,1662 @@
+(export
+	(version "E")
+	(design
+		(source "/home/justin/Desktop/KiCad_projects/vocoder/throat_mic/throat_mic/throat_mic.kicad_sch")
+		(date "2026-10-18T17:25:42")
+		(tool "Eeschema 10.0.5")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "throat_mic.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "C1")
+			(value "20n")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "393d6a9e-5c9d-45ca-9eff-30037443fbf8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C2")
+			(value "680n")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "026cadc4-8b5c-4be7-8b71-91ec5488c9e9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C3")
+			(value "680n")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b38d00a6-59a1-4390-94ad-c5c37517cf1b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C4")
+			(value "1u")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1e78a113-e5a0-4b2c-b313-e823f8b1450d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C5")
+			(value "20n")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e7c86c7f-f0b3-40e0-83b1-862362069dba")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J1")
+			(value "Conn_01x02_Socket")
+			(description "Generic connector, single row, 01x02, script generated")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x02, script generated")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_01x02_Socket")
+				(description "Generic connector, single row, 01x02, script generated")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "4114c025-cd6b-4d4a-b652-fd83251160cb")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J2")
+			(value "Conn_01x06_Socket")
+			(description "Generic connector, single row, 01x06, script generated")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x06, script generated")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_01x06_Socket")
+				(description "Generic connector, single row, 01x06, script generated")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "67745c82-a220-4a8b-a6ab-ce879e88d89c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R1")
+			(value "4.7K")
+			(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric")
+			(datasheet "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(description "Resistor")
+			(fields
+				(field
+					(name "PROD_ID") "RES-07856")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Resistor")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "PROD_ID")
+				(value "RES-07856")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "20631776-778e-49bd-9f15-087547b42595")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R2")
+			(value "1M")
+			(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric")
+			(datasheet "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(description "Resistor")
+			(fields
+				(field
+					(name "PROD_ID") "RES-07856")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Resistor")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "PROD_ID")
+				(value "RES-07856")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a1ba2bdc-69e3-45d9-9ec8-7779f8c91339")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R3")
+			(value "4.7K")
+			(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric")
+			(datasheet "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(description "Resistor")
+			(fields
+				(field
+					(name "PROD_ID") "RES-07856")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Resistor")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "PROD_ID")
+				(value "RES-07856")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3af33d9b-5f58-4de6-9497-cee19fbc8ff8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R4")
+			(value "47K")
+			(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric")
+			(datasheet "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(description "Resistor")
+			(fields
+				(field
+					(name "PROD_ID") "RES-07856")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Resistor")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "PROD_ID")
+				(value "RES-07856")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "6f4fd801-61ee-44bd-b0aa-860c32baec4f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R5")
+			(value "100K")
+			(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric")
+			(datasheet "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(description "Resistor")
+			(fields
+				(field
+					(name "PROD_ID") "RES-07856")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Resistor")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "PROD_ID")
+				(value "RES-07856")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b3b16c0d-899f-4651-9a49-02123b60f216")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R6")
+			(value "100K")
+			(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric")
+			(datasheet "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(description "Resistor")
+			(fields
+				(field
+					(name "PROD_ID") "RES-07856")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Resistor")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "PROD_ID")
+				(value "RES-07856")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d75d8d10-864e-482d-aaca-dbd2f5fb53da")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U1")
+			(value "AK5720VT")
+			(footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
+			(datasheet "https://www.akm.com/akm/en/file/datasheet/AK5720VT.pdf")
+			(description "Stereo, 96kHz, 24-Bit, Delta-Sigma ADC, TSSOP-16")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
+				(field
+					(name "Datasheet") "https://www.akm.com/akm/en/file/datasheet/AK5720VT.pdf")
+				(field
+					(name "Description") "Stereo, 96kHz, 24-Bit, Delta-Sigma ADC, TSSOP-16")
+			)
+			(libsource
+				(lib "Audio")
+				(part "AK5720VT")
+				(description "Stereo, 96kHz, 24-Bit, Delta-Sigma ADC, TSSOP-16")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "audio adc 2ch 24bit 96kHz I2S MSB TDM")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TSSOP*4.4x5mm*P0.65mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fc2da2cb-487d-402a-b541-13f7814b2a68")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "16")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U3")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "op_amp")
+				(part "TVL6741")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "throat_mic.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "5a79c99c-eed2-4e2e-a6c4-524b98294973")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "Audio")
+			(part "AK5720VT")
+			(description "Stereo, 96kHz, 24-Bit, Delta-Sigma ADC, TSSOP-16")
+			(docs "https://www.akm.com/akm/en/file/datasheet/AK5720VT.pdf")
+			(footprints
+				(fp "TSSOP*4.4x5mm*P0.65mm*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "AK5720VT")
+				(field
+					(name "Footprint") "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
+				(field
+					(name "Datasheet") "https://www.akm.com/akm/en/file/datasheet/AK5720VT.pdf")
+				(field
+					(name "Description") "Stereo, 96kHz, 24-Bit, Delta-Sigma ADC, TSSOP-16")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VCOM")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "RIN")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "LIN")
+					(type "input")
+				)
+				(pin
+					(num "4")
+					(name "VSS")
+					(type "power_in")
+				)
+				(pin
+					(num "5")
+					(name "VA")
+					(type "power_in")
+				)
+				(pin
+					(num "6")
+					(name "VD")
+					(type "power_in")
+				)
+				(pin
+					(num "7")
+					(name "GSEL")
+					(type "input")
+				)
+				(pin
+					(num "8")
+					(name "REGO")
+					(type "passive")
+				)
+				(pin
+					(num "9")
+					(name "SDTO")
+					(type "output")
+				)
+				(pin
+					(num "10")
+					(name "LRCLK")
+					(type "bidirectional")
+				)
+				(pin
+					(num "11")
+					(name "MCLK")
+					(type "input")
+				)
+				(pin
+					(num "12")
+					(name "BICK")
+					(type "bidirectional")
+				)
+				(pin
+					(num "13")
+					(name "~{PDN}")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "DIF/TDMI")
+					(type "input")
+				)
+				(pin
+					(num "15")
+					(name "FSEL")
+					(type "input")
+				)
+				(pin
+					(num "16")
+					(name "CKS")
+					(type "input")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector")
+			(part "Conn_01x02_Socket")
+			(description "Generic connector, single row, 01x02, script generated")
+			(footprints
+				(fp "Connector*:*_1x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_01x02_Socket")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x02, script generated")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector")
+			(part "Conn_01x06_Socket")
+			(description "Generic connector, single row, 01x06, script generated")
+			(footprints
+				(fp "Connector*:*_1x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_01x06_Socket")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x06, script generated")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "Pin_3")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "Pin_4")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "Pin_5")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "Pin_6")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "C")
+			(description "Unpolarized capacitor")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "C")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "PCM_SparkFun-Resistor")
+			(part "R")
+			(description "Resistor")
+			(docs "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "1k")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+				(field
+					(name "PROD_ID") "RES-07856")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "op_amp")
+			(part "TVL6741")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "+")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "V-")
+					(type "power_in")
+				)
+				(pin
+					(num "3")
+					(name "-")
+					(type "input")
+				)
+				(pin
+					(num "4")
+					(name "")
+					(type "output")
+				)
+				(pin
+					(num "5")
+					(name "V+")
+					(type "power_in")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "Audio")
+			(uri "${KICAD10_SYMBOL_DIR}/Audio.kicad_sym")
+		)
+		(library
+			(logical "Connector")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector.kicad_sym")
+		)
+		(library
+			(logical "Device")
+			(uri "${KICAD10_SYMBOL_DIR}/Device.kicad_sym")
+		)
+		(library
+			(logical "PCM_SparkFun-Resistor")
+			(uri "${KICAD10_3RD_PARTY}/symbols/com_github_sparkfun_SparkFun-KiCad-Libraries/SparkFun-Resistor.kicad_sym")
+		)
+		(library
+			(logical "op_amp")
+			(uri "${KICAD10_3RD_PARTY}/custom/op_amp.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "3V3")
+			(class "Default")
+			(node
+				(ref "J2")
+				(pin "5")
+				(pinfunction "Pin_5_5")
+				(pintype "passive")
+			)
+			(node
+				(ref "R5")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "13")
+				(pinfunction "~{PDN}_13")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "14")
+				(pinfunction "DIF/TDMI_14")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "15")
+				(pinfunction "FSEL_15")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "5")
+				(pinfunction "VA_5")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "6")
+				(pinfunction "VD_6")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U3")
+				(pin "5")
+				(pinfunction "V+_5")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "2")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "C2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C5")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J2")
+				(pin "6")
+				(pinfunction "Pin_6_6")
+				(pintype "passive")
+			)
+			(node
+				(ref "R6")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "16")
+				(pinfunction "CKS_16")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "4")
+				(pinfunction "VSS_4")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "7")
+				(pinfunction "GSEL_7")
+				(pintype "input")
+			)
+			(node
+				(ref "U3")
+				(pin "2")
+				(pinfunction "V-_2")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "3")
+			(name "I2S_BLCK")
+			(class "Default")
+			(node
+				(ref "J2")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "12")
+				(pinfunction "BICK_12")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "4")
+			(name "I2S_DATA_OUT")
+			(class "Default")
+			(node
+				(ref "J2")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "9")
+				(pinfunction "SDTO_9")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "5")
+			(name "I2S_MASTER")
+			(class "Default")
+			(node
+				(ref "J2")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "11")
+				(pinfunction "MCLK_11")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "6")
+			(name "I2S_WS")
+			(class "Default")
+			(node
+				(ref "J2")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "10")
+				(pinfunction "LRCLK_10")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "7")
+			(name "LIN")
+			(class "Default")
+			(node
+				(ref "C4")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "3")
+				(pinfunction "LIN_3")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "8")
+			(name "Net-(C1-Pad2)")
+			(class "Default")
+			(node
+				(ref "C1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "9")
+			(name "Net-(C2-Pad2)")
+			(class "Default")
+			(node
+				(ref "C2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "10")
+			(name "Net-(C3-Pad1)")
+			(class "Default")
+			(node
+				(ref "C3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C4")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R4")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "11")
+			(name "Net-(C5-Pad1)")
+			(class "Default")
+			(node
+				(ref "C5")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R5")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R6")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "12")
+			(name "Net-(U3-+)")
+			(class "Default")
+			(node
+				(ref "R1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "1")
+				(pinfunction "+_1")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "13")
+			(name "Net-(U3--)")
+			(class "Default")
+			(node
+				(ref "C3")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R4")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "3")
+				(pinfunction "-_3")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "14")
+			(name "PIEZO+")
+			(class "Default")
+			(node
+				(ref "C1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "15")
+			(name "unconnected-(U1-REGO-Pad8)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "8")
+				(pinfunction "REGO_8")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "16")
+			(name "unconnected-(U1-RIN-Pad2)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "2")
+				(pinfunction "RIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "17")
+			(name "unconnected-(U1-VCOM-Pad1)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "1")
+				(pinfunction "VCOM_1")
+				(pintype "passive")
+			)
+		)
+	)
+)

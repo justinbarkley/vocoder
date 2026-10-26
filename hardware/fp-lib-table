@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MyAntenna_manufacturer") (type "KiCad") (uri "/home/justin/kicad_custom_libraries/footprints/micro_sd_connector/MyAntenna_manufacturer.pretty") (options "") (descr ""))
+)
